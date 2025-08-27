@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm devawpxx 👋</h3>
+<h3 align="center">Hi, I'm Devaa 👋</h3>
 <p align="center">.NET Fullstack Developer</p>
 
 ---
